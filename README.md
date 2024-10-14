@@ -188,6 +188,9 @@
     </style>
     ![Screenshot (238)](https://github.com/user-attachments/assets/be203445-3f2e-44a9-b514-cea4b796e3cd)
 
+#memvalidasi Dokumen
+![Screenshot (243)](https://github.com/user-attachments/assets/ac46ddd7-008e-41b9-b2bb-f84e59518129)
+
 
 Pertanyaan dan Tugas
 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
